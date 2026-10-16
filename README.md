@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo-tropical.png" alt="Tropical Multiloja" width="220">
+
 <img src="assets/logo-tropical.png" alt="Logo Tropical" width="220">
 
 # TropiBackup
@@ -64,6 +66,8 @@ Consulte o [repositório do TropiBackup](https://github.com/sinergitecnologia/tr
 ---
 
 <div align="center">
+
+<img src="assets/logo-tropical.png" alt="Tropical Multiloja" width="220">
 
 **Sinergi | Software e Serviços de Gestão**
 
