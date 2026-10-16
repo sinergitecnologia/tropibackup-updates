@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo-tropical.png" alt="Logo Tropical" width="220">
+
 # TropiBackup
 
 **Sinergi | Software e Serviços de Gestão**
