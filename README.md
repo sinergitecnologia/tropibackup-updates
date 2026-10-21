@@ -65,7 +65,7 @@ Consulte o [repositório do TropiBackup](https://github.com/sinergitecnologia/tr
 
 <div align="center">
 
-<img src="assets/logo-sinergi.png" alt="Tropical Multiloja" width="220">
+<img src="assets/logo-sinergi.png" alt="Sinergi" width="220">
 
 **Sinergi | Software e Serviços de Gestão**
 
