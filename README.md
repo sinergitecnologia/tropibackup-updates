@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/TropiBackup.png" alt="Tropical Multiloja" width="220">
+<img src="assets/logo-tropical.png" alt="Tropical Multiloja" width="220">
 
 # TropiBackup
 
